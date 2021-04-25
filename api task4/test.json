@@ -1,0 +1,16 @@
+{
+    "stores": [
+    {
+    "store_ID": "1",
+    "store_Name": "Jashanmal",
+    "store_Logo": "Jashanmal.png"
+    },
+    {
+        "store_ID": "2",
+        "store_Name": "National Bookshop",
+        "store_Logo": "National Bookshop.png"
+      
+        }
+    ],
+    "success": 1
+}
